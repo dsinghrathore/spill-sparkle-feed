@@ -1,0 +1,6 @@
+# Ignore actual release ZIPs (they can be large)
+# You may want to store these in a separate location or CDN
+updates/*.zip
+
+# But keep the directory structure
+!updates/.gitkeep
