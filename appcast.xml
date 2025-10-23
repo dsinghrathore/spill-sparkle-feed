@@ -11,14 +11,14 @@
             <link>https://ghq.rathoreactual.com/spill-sparkle-feed/releases/spill-1.2.zip</link>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-            <sparkle:edSignature>N4XpE28hm9qp0bTxV995sLNCjDJb1+eMvuzcrW3ogydBsc3qbKC2rC2x2rEERlBBoi92fiAKMP/Ey0Qeir9QAw==</sparkle:edSignature>
+            <sparkle:edSignature>rrwXCkYjWvoyprEHnNuiv22sJT5Ky+ivl265lsaUiF3KeVnwCots00g5eBcv1V6qyY9yv5O0JR0TyESchps8DQ==</sparkle:edSignature>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <pubDate>Wed, 23 Oct 2024 23:47:00 +0000</pubDate>
+            <pubDate>Thu, 24 Oct 2024 00:21:00 +0000</pubDate>
             <enclosure
                 url="https://ghq.rathoreactual.com/spill-sparkle-feed/releases/spill-1.2.zip"
-                length="19953956"
+                length="19120764"
                 type="application/octet-stream"
-                sparkle:edSignature="N4XpE28hm9qp0bTxV995sLNCjDJb1+eMvuzcrW3ogydBsc3qbKC2rC2x2rEERlBBoi92fiAKMP/Ey0Qeir9QAw==" />
+                sparkle:edSignature="rrwXCkYjWvoyprEHnNuiv22sJT5Ky+ivl265lsaUiF3KeVnwCots00g5eBcv1V6qyY9yv5O0JR0TyESchps8DQ==" />
             <description><![CDATA[
                 <h2>What's New in Version 1.2</h2>
                 <ul>
