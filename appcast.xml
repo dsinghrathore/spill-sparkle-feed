@@ -9,7 +9,7 @@
         <item>
             <title>Version 1.2</title>
             <link>https://ghq.rathoreactual.com/spill-sparkle-feed/releases/spill-1.2.zip</link>
-            <sparkle:version>1.2</sparkle:version>
+            <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:edSignature>N4XpE28hm9qp0bTxV995sLNCjDJb1+eMvuzcrW3ogydBsc3qbKC2rC2x2rEERlBBoi92fiAKMP/Ey0Qeir9QAw==</sparkle:edSignature>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
