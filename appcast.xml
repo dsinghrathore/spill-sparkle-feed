@@ -6,26 +6,26 @@
         <description>Most recent updates for Spill</description>
         <language>en</language>
 
-        <!-- Example release entry - Replace with your actual release -->
         <item>
-            <title>Version 1.0.0</title>
-            <link>https://ghq.rathoreactual.com/updates/Spill-1.0.0.zip</link>
-            <sparkle:version>1.0.0</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:edSignature>SIGNATURE_WILL_GO_HERE</sparkle:edSignature>
+            <title>Version 1.2</title>
+            <link>https://ghq.rathoreactual.com/spill-sparkle-feed/releases/spill-1.2.zip</link>
+            <sparkle:version>1.2</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:edSignature>N4XpE28hm9qp0bTxV995sLNCjDJb1+eMvuzcrW3ogydBsc3qbKC2rC2x2rEERlBBoi92fiAKMP/Ey0Qeir9QAw==</sparkle:edSignature>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <pubDate>Thu, 23 Oct 2025 12:00:00 +0000</pubDate>
+            <pubDate>Wed, 23 Oct 2024 23:47:00 +0000</pubDate>
             <enclosure
-                url="https://ghq.rathoreactual.com/updates/Spill-1.0.0.zip"
-                length="0"
+                url="https://ghq.rathoreactual.com/spill-sparkle-feed/releases/spill-1.2.zip"
+                length="19953956"
                 type="application/octet-stream"
-                sparkle:edSignature="SIGNATURE_WILL_GO_HERE" />
+                sparkle:edSignature="N4XpE28hm9qp0bTxV995sLNCjDJb1+eMvuzcrW3ogydBsc3qbKC2rC2x2rEERlBBoi92fiAKMP/Ey0Qeir9QAw==" />
             <description><![CDATA[
-                <h2>Initial Release</h2>
+                <h2>What's New in Version 1.2</h2>
                 <ul>
                     <li>Voice-powered journaling</li>
                     <li>LiveKit integration for voice chat</li>
                     <li>Local and cloud storage</li>
+                    <li>Bug fixes and improvements</li>
                 </ul>
             ]]></description>
         </item>
